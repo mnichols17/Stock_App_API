@@ -1,0 +1,49 @@
+body {
+  font-family: "Hind", sans-serif;
+  width: 75%;
+  margin: auto;
+}
+input {
+  margin-right: 5px;
+}
+#header {
+  text-align: center;
+  padding: 4%;
+  margin: 20px;
+  margin-bottom: -10px;
+}
+hr {
+  border-color: red;
+}
+table, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+  padding: 10px;
+  font-size: 25px;
+}
+#list1, #list2 {
+  margin: auto;
+}
+.symbol {
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+#div1, #div2 {
+  border: solid 2px black;
+  width: 45%;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+#div1 {
+  float: left;
+}
+#div2 {
+  float: right;
+}
+#stock1, #stock2 {
+  text-transform: uppercase;
+}
